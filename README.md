@@ -31,7 +31,7 @@ The project investigates **marine protease production under submerged fermentati
 ## 🌐 Full Project Website
 Complete methodology, figures, results, and conclusions are available here:
 
-👉 **https://varunsagard.github.io/reu-project/**
+👉 **https://github.com/VarunSagarD/reu-project**
 
 ---
 
